@@ -3,8 +3,8 @@ import subprocess
 import os
 
 # Constants
-GITHUB_TOKEN = 'your_github_personal_access_token'  # Your GitHub personal access token
-BASE_PATH = '/path/to/save/repositories'  # Where to save the cloned repositories
+GITHUB_TOKEN = ' '  # GitHub personal access token
+BASE_PATH = ' '  # Where to save the cloned repositories
 SEARCH_CRITERIA = {
     'language': 'Python',
     'stars': '>=100',
